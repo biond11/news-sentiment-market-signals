@@ -1,0 +1,16 @@
+fastapi
+uvicorn[standard]
+streamlit
+pandas
+numpy
+psycopg[binary]
+pymongo
+python-dotenv
+requests
+sentence-transformers
+scikit-learn
+torch
+statsmodels
+dbt-postgres
+pytest
+httpx
