@@ -30,3 +30,4 @@ warehouse/logs/
 
 # Streamlit
 .streamlit/secrets.toml
+*.bak
